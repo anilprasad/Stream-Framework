@@ -1,4 +1,4 @@
-Stream Framework
+## Stream Framework
 ----------------
 
 [![Build Status](https://travis-ci.org/tschellenbach/Stream-Framework.svg?branch=master)](https://travis-ci.org/tschellenbach/Stream-Framework)
